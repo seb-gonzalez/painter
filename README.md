@@ -9,7 +9,7 @@ repository into your machine, then you should import this project as an 'Existin
 
 ```
 git init
-git remote add origin https://github.com/sebachili/Paint.git
+git remote add origin https://github.com/sebachili/painter.git
 git pull -u origin master
 ```
 
